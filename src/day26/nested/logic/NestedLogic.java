@@ -34,7 +34,6 @@ public class NestedLogic {
             } else {
                 totalFine = 0;
             }
-
         }
         System.out.println(totalFine);
     }
